@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - Computer Science and Engineering(CSE) Undergraduate Student.
 - An Open-Source and ML enthusiast.
 - Exploring Backend Development and Machine Learning.
-- Data Structures and Algorithms are ❤️.
+- Traversing through different Data Structures.
 
 ## 🎯 Goals (2022)
 - Contribute as much as possible to open source community.
