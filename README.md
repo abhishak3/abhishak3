@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 
 <!-- Stat's from https://github.com/anuraghazra/github-readme-stats -->
 
+## Reach me
 <p align="left">
 <a href="https://twitter.com/ShakeAbhi420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saumya1singh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhishak3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saumya1singh" height="30" width="40" /></a>
-<a href="mailto:abhishek.pandey.3237@gmail.com" target="blank"><img align="center" src="/Assets/Gmail.svg" alt="abhishek.pandey.3237" height="30" width="40" /></a>
+<a href="mailto:abhishek.pandey.3237@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="abhishek.pandey.3237" height="30" width="40" /></a>
   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aadityasinha-dotcom.aadityasinha-dotcom)
