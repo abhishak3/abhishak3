@@ -14,7 +14,7 @@ $ whoami
 ```
 
 - Computer Science and Engineering(CSE) Undergraduate Student.
-- An Open-Source and ML enthusiast.
+- An Open-Source and Linux enthusiast (I use Arch BTW).
 - Exploring Backend Development and Machine Learning.
 - Traversing through different Data Structures.
 
