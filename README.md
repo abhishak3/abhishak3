@@ -23,12 +23,10 @@ $ whoami
 - Connect with different folks and communities to upgrade my skills.
 - Mentor and motivate newcomers to be a part of amazing open source community.
 
-<!-- 
 ## Stats
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishak3&show_icons=true&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishak3&layout=compact&theme=algolia)
--->
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishak3&show_icons=true&theme=algolia)
+
 <!-- Stat Credits: https://github.com/anuraghazra/github-readme-stats -->
 
 ## Reach me
