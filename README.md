@@ -24,10 +24,13 @@ $ whoami
 - Mentor and motivate newcomers to be a part of amazing open source community.
 
 ## Stats
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishak3&show_icons=true&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishak3&layout=compact&theme=algolia)
-
-<!-- Stat Credits: https://github.com/anuraghazra/github-readme-stats -->
+<div align="center">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishak3&theme=monokai" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishak3&theme=monokai"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishak3&theme=monokai"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishak3&theme=monokai"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishak3&theme=monokai" />
+</div>
 
 ## Reach me
 <p align="left">
