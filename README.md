@@ -18,11 +18,6 @@ $ whoami
 - Exploring Backend Development and Machine Learning.
 - Traversing through different Data Structures.
 
-## 🎯 Goals (2022)
-- Contribute as much as possible to open source community.
-- Connect with different folks and communities to upgrade my skills.
-- Mentor and motivate newcomers to be a part of amazing open source community.
-
 ## Stats
 <div align="center">
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishak3&theme=dracula" />
